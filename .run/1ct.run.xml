@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="1ct" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.kdureidy.oneclick.OneclickApp" />
+    <module name="oneclick" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
