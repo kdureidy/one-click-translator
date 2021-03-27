@@ -36,6 +36,9 @@
     "jwtSecretKey": "ZTEwMTRiNTgyYWQwYjRhYmQ0ZjcyZTdkNThjZGE4YWYwMzdmZWZkMmU1NzFlNzg1MzU1ZGY4ZDFlY2Q2MDBmOTUzZDk1M2FlMGY5YjgwZjcyOTM2ZTAzMTYyNDQ4MmY0MWMzODA5NzJiYTM1NzRhMTk1ZjU0YTY4MThiOTRjZDI=",
     "devDatabaseType": "no",
     "prodDatabaseType": "no",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "herokuAppName": null,
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
