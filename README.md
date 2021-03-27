@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # oneclick
 
 This application was generated using JHipster 7.0.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.0](https://www.jhipster.tech/documentation-archive/v7.0.0).
@@ -108,4 +110,9 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [using jhipster in production]: https://www.jhipster.tech/documentation-archive/v7.0.0/production/
 [running tests page]: https://www.jhipster.tech/documentation-archive/v7.0.0/running-tests/
 [code quality page]: https://www.jhipster.tech/documentation-archive/v7.0.0/code-quality/
-[setting up continuous integration]: https://www.jhipster.tech/documentation-archive/v7.0.0/setting-up-ci/
+
+# [setting up continuous integration]: https://www.jhipster.tech/documentation-archive/v7.0.0/setting-up-ci/
+
+Initial app
+
+> > > > > > > b129ec3cbf1e6503606f5110921fa6520ddb3354
